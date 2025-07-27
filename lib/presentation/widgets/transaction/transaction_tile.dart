@@ -38,6 +38,7 @@ class TransactionTile extends StatelessWidget {
         ? Color(0xFF169B50)
         : Color(0xFFE0494A);
 
+
     return Container(
       decoration: BoxDecoration(
         color: bgColor,
